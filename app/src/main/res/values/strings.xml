@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChatertonESIEE</string>
+
+    <string name="prompt_jid">Jabber Id</string>
+    <string name="prompt_password">Mot de passe</string>
+
+    <string name="action_sign_in">Connexion </string>
+    <string name="action_sign_in_short">Connexion</string>
+
+    <string name="error_invalid_jid">Jid Invalide</string>
+
+    <string name="error_invalid_password">MDP trop court</string>
+    <string name="error_incorrect_password">MDP incorecte</string>
+
+    <string name="error_field_required">Champs requis</string>
+
+    <string name="permission_rationale">"La demande de contact est nécessaire"</string>
+
+</resources>
